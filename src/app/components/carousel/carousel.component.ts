@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
     templateUrl: './carousel.component.html',
 })
 export class CarouselComponent {
-
+    img1 = "../../assets/lorem1.jpg";
+    img2 = "../../assets/lorem2.jpg";
+    img3 = "../../assets/lorem3.jpg";
 }
